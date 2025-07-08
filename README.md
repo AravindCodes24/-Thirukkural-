@@ -18,7 +18,7 @@ A modern web app to explore the ancient Tamil wisdom of **Thirukkural**, built u
 
 ## 🚀 Live Demo
 
-> Coming soon — deploy with **Vercel** or **Netlify**
+> deploy with **Vercel**
 
 ---
 
